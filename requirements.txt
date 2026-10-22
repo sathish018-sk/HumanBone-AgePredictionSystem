@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+pillow
+streamlit
+tensorflow
+torch
+torchvision
+tqdm
+joblib
+
+code gthj unyk wgen yfwy
